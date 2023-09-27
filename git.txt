@@ -30,3 +30,25 @@ HOW TO GENERATE AN SSH key
 EG:\> cat -/.ssh/id_rsa.pub
  
 the cat command fetches the content of a file, in read only format, in this case we will be able to see the value of our public key, which we can copy to our github.
+
+important git commands
+1. git status which is used to show the branch we are currently working from, and the status of our changes ie not moved to staging(untracked), in staging (this brings a to be committed) or committed(this brings a nothin to be committed)
+
+2. git log: This shows a record of all commits that have been done in the local repository
+
+3. git branch: This is usedto view all branches and view the active branch
+
+4. git branch branchnamehere:This is used to create a new branch
+
+5. git checkout branchnamehere:THis is used to move to another existing branch and set it as active
+
+TODO : Assignment : Check out the following git command and how they work, create an example project that will involve them
+1. git clone
+2. git fetch
+3. git pull
+4. How to create a good Readme for my project
+pip install django
+pip install virtualenv
+
+
+
